@@ -33,3 +33,8 @@
     --interactive-hover: var(--color-low);
     --interactive-active: var(--color-low);
 }
+
+/**
+    * headers are top window headers
+    * text normal is the text used in plain text areas (guild name, text channels | NOT folder names)
+**/

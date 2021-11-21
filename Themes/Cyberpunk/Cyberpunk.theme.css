@@ -25,4 +25,11 @@
     --color-low-trans: rgba(184, 217, 209, 0.6);
     --color-alert-trans: rgba(229, 0, 77, 0.7);
     --font: BlenderProBold;
+    --header-primary: var(--color-low) !important;
+    --header-secondary: var(--color-low) !important;
+    --text-normal: var(--color-lowest);
+    --channels-default: var(--color-mid);
+    --interactive-normal: var(--color-low);
+    --interactive-hover: var(--color-low);
+    --interactive-active: var(--color-low);
 }
